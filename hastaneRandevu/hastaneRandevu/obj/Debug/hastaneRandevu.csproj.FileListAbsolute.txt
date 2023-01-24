@@ -1,0 +1,7 @@
+C:\Users\fatma.ozturk\source\repos\hastaneRandevu\hastaneRandevu\bin\Debug\hastaneRandevu.exe.config
+C:\Users\fatma.ozturk\source\repos\hastaneRandevu\hastaneRandevu\bin\Debug\hastaneRandevu.exe
+C:\Users\fatma.ozturk\source\repos\hastaneRandevu\hastaneRandevu\bin\Debug\hastaneRandevu.pdb
+C:\Users\fatma.ozturk\source\repos\hastaneRandevu\hastaneRandevu\obj\Debug\hastaneRandevu.csprojAssemblyReference.cache
+C:\Users\fatma.ozturk\source\repos\hastaneRandevu\hastaneRandevu\obj\Debug\hastaneRandevu.csproj.CoreCompileInputs.cache
+C:\Users\fatma.ozturk\source\repos\hastaneRandevu\hastaneRandevu\obj\Debug\hastaneRandevu.exe
+C:\Users\fatma.ozturk\source\repos\hastaneRandevu\hastaneRandevu\obj\Debug\hastaneRandevu.pdb
